@@ -1,0 +1,2 @@
+rootProject.name = "AdakUnlock"
+include ':app'
